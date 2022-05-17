@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Demo_suite]">
+  <parameter name="pw" value="admin"/>
+  <parameter name="browserName" value="Chrome"/>
+  <parameter name="un" value="admin"/>
+  <listeners>
+    <listener class-name="com.hrms.utility.Listeners"/>
+  </listeners>
+  <test name="sanity_test(failed)">
+    <classes>
+      <class name="com.hrms.testscript.TS001">
+        <methods>
+          <include name="login_logout" invocation-numbers="1"/>
+          <include name="launchBrowser"/>
+          <include name="closeAppli"/>
+        </methods>
+      </class> <!-- com.hrms.testscript.TS001 -->
+    </classes>
+  </test> <!-- sanity_test(failed) -->
+</suite> <!-- Failed suite [Demo_suite] -->

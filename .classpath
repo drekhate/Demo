@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/Selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/log4j/log4j.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/jcommander.jar/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/ExtendReports/rxjava-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/JarFile/TestNG/testng-6.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

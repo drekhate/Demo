@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sanity_suite">
+<listeners>
+<listener class-name="com.hrms.utility.Listeners"/>
+</listeners>
+<parameter name = "browserName" value = "Chrome"/>
+<parameter name = "un" value = "admin"/>
+<parameter name = "pw" value = "admin"/>
+<test name="sanity_test">
+<classes>
+<class name="com.hrms.testscript.TS001"/>
+</classes>
+</test>
+</suite>
