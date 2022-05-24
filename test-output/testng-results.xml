@@ -14,12 +14,12 @@
       <![CDATA[Logout Complited]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-04-24T17:02:00Z" name="sanity_suite" finished-at="2022-04-24T17:02:12Z" duration-ms="11878">
+  <suite started-at="2022-05-23T20:26:15Z" name="sanity_suite" finished-at="2022-05-23T20:26:52Z" duration-ms="37155">
     <groups>
     </groups>
-    <test started-at="2022-04-24T17:02:00Z" name="sanity_test" finished-at="2022-04-24T17:02:12Z" duration-ms="11878">
+    <test started-at="2022-05-23T20:26:15Z" name="sanity_test" finished-at="2022-05-23T20:26:52Z" duration-ms="37155">
       <class name="com.hrms.testscript.TS001">
-        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-04-24T22:32:00Z" name="launchBrowser" finished-at="2022-04-24T22:32:03Z" duration-ms="3150" status="PASS">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-05-24T01:56:15Z" name="launchBrowser" finished-at="2022-05-24T01:56:30Z" duration-ms="15018" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login_logout(java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-04-24T22:32:03Z" name="login_logout" data-provider="loginTestData" finished-at="2022-04-24T22:32:10Z" duration-ms="7107" status="PASS">
+        <test-method signature="login_logout(java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-05-24T01:56:30Z" name="login_logout" data-provider="loginTestData" finished-at="2022-05-24T01:56:51Z" duration-ms="20813" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -58,7 +58,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- login_logout -->
-        <test-method is-config="true" signature="closeAppli()[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-04-24T22:32:10Z" name="closeAppli" finished-at="2022-04-24T22:32:12Z" duration-ms="1598" status="PASS">
+        <test-method is-config="true" signature="closeAppli()[pri:0, instance:com.hrms.testscript.TS001@14cd1699]" started-at="2022-05-24T01:56:51Z" name="closeAppli" finished-at="2022-05-24T01:56:52Z" duration-ms="1284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeAppli -->
